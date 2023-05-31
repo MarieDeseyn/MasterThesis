@@ -1,0 +1,11 @@
+AcAl_0_030 Othermedicalisotopes; for different energies implantation of in differentfoils
+cdat 0 12. 1
+geom 9000. 100 0
+atda Al  Ac 
+comp 1 0
+irra 2 30000 0. 1.
+prec 0.0005
+rand 10000
+outp
+outi ardn
+fout 10 100 100
