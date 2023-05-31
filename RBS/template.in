@@ -1,0 +1,11 @@
+test__test Experimental confirmation, for different energies implantation of Tb in Zn or Al
+cdat 0 12. 1
+geom 2000. 100 0
+atda Al Tb
+comp 1 0
+irra 2 60000. 0. 1.
+prec 0.0005
+rand 50000
+outp
+outi ardn
+fout 10 100 100
