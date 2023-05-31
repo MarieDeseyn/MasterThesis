@@ -1,2 +1,2 @@
 This folder contains all necessary code for the simulation of recoil-sputtering
-TRIDYN_TO_SRIM.py is based on a code written by Michael Heines
+TRIDYN_TO_SRIM.py and Generate_SRIM_Ac225.py is based on a code written by Michael Heines
