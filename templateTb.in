@@ -1,0 +1,10 @@
+Tbna_0_60 Tb on Al that has allready been irradiated with Gd with different fluences
+cdat 1 10 1 inputfile
+geom 1000. 100 0
+atda Al Tb Gd
+irra 2 60000. 0. 1
+prec 0.001
+rand 27778
+outp
+outi ardn
+fout 10 100 100
