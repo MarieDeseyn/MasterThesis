@@ -1,0 +1,11 @@
+TbGd_0_60 Gd on Al different fluences
+cdat 0 0.03 1
+geom 500. 100 0
+atda Al Tb Gd
+comp 1 0 0 0 0
+irra 3 60000. 0. 1
+prec 0.0005
+rand 27778
+outp
+outi ardn
+fout 10 100 100
