@@ -1,1 +1,4 @@
-This folder contains the necessary code for performing layered simulations
+This folder contains the necessary code for performing layered simulations.
+
+makecolorplotlayerednewact.py contains the code to make the input files for TRIDYN.
+execute_layered_colplot.sh is the bash script that is used to automize the layered simulations. This code uses create_newlayer_new.py, which creates the necessary files for the subsequent simulation.
