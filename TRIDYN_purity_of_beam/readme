@@ -1,1 +1,12 @@
-This folder contains the necessary code for the generation and analysis of terbium implanted together with gadolinium
+This folder contains the necessary code for the generation and analysis of terbium implanted together with gadolinium.
+------ Gd_prior ------
+Gd_prior_to_Tb.py contains the code to generate the necessary TRIDYN input files, in order to do so templateTb.in and template.in are needed. The TRIDYN simulations should be executed in two steps (1: Gd implantation, 2: Tb implantation for the Gd-implanted target)
+Analysis_Gd_prior_to_Tb.ipynb contains the code to analyze the TRIDYN output.
+
+(Analysis_Gd_prior_to_Tb.ipynb is based on a code written by Michael Heines)
+
+------ Gd_simultaneously ------ 
+filesfractionGdTb.py generates the TRIDYN input files.
+Analysis_Gd_simultaneously.ipynb contains the code to analyze the TRIDYN output.
+
+(Analysis_Gd_simultaneously.ipynb is based on a code written by Michael Heines)
