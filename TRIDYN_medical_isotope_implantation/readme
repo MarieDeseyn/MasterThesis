@@ -1,2 +1,7 @@
 This folder contains the necessary files to generate and analyze the implantation of a specific medical isotope into aluminium, zinc, dextrates, cellulose, NaCl, NaNO3.
-The execute.sh code was written by Michael Heines
+
+makefilesotherisotopes.py contains the code to generate the TRIDYN input files, in order to run this code, template.in is needed.
+execute.sh is a bash script to run multiple TRIDYN simulations in an automatical way and was made by Michael Heines.
+analysis code TRIDYN - different isotopes and substrates_new.ipynb contains the code to analyze the TRIDYN output.
+
+(analysis code TRIDYN - different isotopes and substrates_new.ipynb makes use of a code written by Michael Heines)
