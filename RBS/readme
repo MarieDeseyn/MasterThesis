@@ -1,1 +1,6 @@
-This folder contains the necessary code to analyze the RBS spectra
+This folder contains the necessary code to analyze the RBS spectra.
+
+makefiles.py generates the files for the TRIDYN simulation, in order for this program to run template.in is needed.
+Experimental confirmation.ipynb analyzes the RBS spectra and provides a comparison with the TRIDYN simulations.
+
+(The code to plot the results from the TRIDYN simulations is based on a code written by Michael Heines)
