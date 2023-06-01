@@ -1,6 +1,6 @@
 This folder contains all necessary code for the simulation of recoil-sputtering.
 
 TRIDYN_TO_SRIM.py contains the code to generate a SRIM input file, given a TRIDYN output.
-Generate_SRIM_Ac225.py is similar to TRIDYN_TO_SRIM.py, but due to the subsequent alpha-decays, also the generation of SRIM input files from SRIM output files is included.
+Generate_SRIM_Ac225.py is similar to TRIDYN_TO_SRIM.py, but to simulate the subsequent alpha-decays, also the generation of SRIM input files from SRIM output files is included for these subsequent alpha-decays.
 
 TRIDYN_TO_SRIM.py and Generate_SRIM_Ac225.py are based on a code written by Michael Heines to generate a SRIM input file, given a SRIM output file.
