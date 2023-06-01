@@ -1,5 +1,5 @@
 # MasterThesis
-Code corresponding to my master thesis (2022-2023) on Maximizing the radionuclide collection efficiency at CERN-MEDICIS: A case study on terbium collections and sputtering
+Code corresponding to my master thesis (2022-2023) on Maximizing the radionuclide collection efficiency at CERN-MEDICIS: A case study on terbium collections and sputtering.
 
 It contains the code for calculating the activity of Tb155 given a gamma spectrum (the code is written such that it can be generalized for any radionuclide), the code to calculate the laser ionization current (corresponding to both laser schemes together and both schemes seperately) as well as the current corresponding to an activity. (Folder: Collection analysis)
 Additionally, the necessary code for generating the TRIDYN input files for implantation of a chosen element in different foil materials is present as well as the analysis code to analyze the corresponding TRIDYN output. (Folder: TRIDYN_medical_isotope_implantation)
